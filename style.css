@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+header{
+  background-color: white;
+  
+}
+header h1 {
+  background: #131111;
+  height:50pt;
+  margin: 20;
+  color: white;
+  font-family: 'Abril Fatface';
+  font-size:60px;
+  text-align: center; 
+  padding: 60px 0 20px 20px;
+}
+h2, h3 {
+  background-color: #514d4d;
+  height:35pt;
+  margin:20;
+  color:white;
+  font-family:'Lucida Sans';
+  font-size: 40px;
+   text-align: center;
+  padding: 48px 0 20px 20px;
+
+}
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  text-align: left;
+  
+}
+
+img {
+width: 75%;
+  
+}
+  
+a:link    { color:  hsl(244, 100%, 25%);  }
+a:visited { color: hsl(116, 56%, 22%); }
+a:hover   { color: hsl(187, 100%, 35%); }
+a:active  { color: hsl(120, 21%, 68%); }
